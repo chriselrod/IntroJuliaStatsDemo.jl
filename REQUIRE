@@ -6,3 +6,5 @@ GLM
 DataFrames
 RCall
 ForwardDiff
+StaticArrays
+BenchmarkTools
